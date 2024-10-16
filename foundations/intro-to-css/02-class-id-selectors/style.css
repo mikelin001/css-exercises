@@ -1,0 +1,23 @@
+.odd
+{
+    background-color:rgb(231, 162, 174);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#BIG
+{
+    color:blue;
+    font-size: 50px;
+}
+
+.adjustment
+{
+    font-size: 25px;
+    
+}
+
+#chain
+{
+    background-color: rgb(143, 255, 143);
+    font-weight: bold;
+}
